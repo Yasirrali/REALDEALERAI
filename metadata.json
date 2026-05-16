@@ -1,0 +1,6 @@
+{
+  "name": "RealDealerAI",
+  "description": "AI-powered agents for car dealerships that respond faster and deliver better customer experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
